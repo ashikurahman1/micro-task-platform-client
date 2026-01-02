@@ -8,15 +8,15 @@ ensuring tasks, users, and payments are handled properly.
 
 ### Homepage
 
-![Homepage](https://ibb.co.com/bM6XXJ7y)
+![Homepage](https://raw.githubusercontent.com/ashikurahman1/micro-task-platform-client/0075c95669e5812a0cd995e64df418fd571b4e6a/src/assets/screenshoots/homepage.png)
 
 ### Dashboards
 
 **Admin Dashboard**  
-![Admin Dashboard](https://ibb.co.com/b5FjSmfn)
+![Admin Dashboard](https://raw.githubusercontent.com/ashikurahman1/micro-task-platform-client/0075c95669e5812a0cd995e64df418fd571b4e6a/src/assets/screenshoots/admin_dash.png)
 
 **Buyer Dashboard**  
-![Buyer Dashboard](https://ibb.co.com/BHG5YjPC)
+![Buyer Dashboard](https://raw.githubusercontent.com/ashikurahman1/micro-task-platform-client/0075c95669e5812a0cd995e64df418fd571b4e6a/src/assets/screenshoots/buyer_dash.png)
 
 ## Live Links
 
