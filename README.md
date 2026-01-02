@@ -1,18 +1,8 @@
 # Micro-Task Platform - Client
 
-Frontend application for the Micro-Task and Earning Platform built with React,
-Vite, and Tailwind CSS.
-
-## 🔗 Live Links
-
-- **Live Client:** https://task-master-volt.vercel.app
-- **Live Server API:** https://task-master-server-v1.vercel.app
-- **Server Repository:**
-  https://github.com/ashikurahman1/micro-task-platform-server
-
-> ⚠️ Note: This repository contains the **client-side** code only.  
-> The backend server is deployed separately and connected via environment
-> variables.
+The Micro-Task Platform allows users to earn money by completing tasks, while
+Buyers can create and manage tasks efficiently. Admins oversee the platform,
+ensuring tasks, users, and payments are handled properly.
 
 ## Screenshots
 
@@ -27,6 +17,17 @@ Vite, and Tailwind CSS.
 
 **Buyer Dashboard**  
 ![Buyer Dashboard](https://i.ibb.co.com/xKYtrGs7/localhost-5173-9.png)
+
+## Live Links
+
+- **Live Client:** https://task-master-volt.vercel.app
+- **Live Server API:** https://task-master-server-v1.vercel.app
+- **Server Repository:**
+  https://github.com/ashikurahman1/micro-task-platform-server
+
+> ⚠️ Note: This repository contains the **client-side** code only.  
+> The backend server is deployed separately and connected via environment
+> variables.
 
 ## Tech Stack
 
@@ -90,8 +91,6 @@ cp .env.example .env.local
 ```bash
 npm run dev
 ```
-
-The app will open at `http://localhost:5173`
 
 ## Available Scripts
 
