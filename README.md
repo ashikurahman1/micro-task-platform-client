@@ -1,6 +1,32 @@
 # Micro-Task Platform - Client
 
-Frontend application for the Micro-Task and Earning Platform built with React, Vite, and Tailwind CSS.
+Frontend application for the Micro-Task and Earning Platform built with React,
+Vite, and Tailwind CSS.
+
+## 🔗 Live Links
+
+- **Live Client:** https://task-master-volt.vercel.app
+- **Live Server API:** https://task-master-server-v1.vercel.app
+- **Server Repository:**
+  https://github.com/ashikurahman1/micro-task-platform-server
+
+> ⚠️ Note: This repository contains the **client-side** code only.  
+> The backend server is deployed separately and connected via environment
+> variables.
+
+## Screenshots
+
+### Homepage
+
+![Homepage](https://i.ibb.co.com/4nFppdJD/localhost-5173-7.png)
+
+### Dashboards
+
+**Admin Dashboard**  
+![Admin Dashboard](https://i.ibb.co.com/MkfyYSXL/localhost-5173-8.png)
+
+**Buyer Dashboard**  
+![Buyer Dashboard](https://i.ibb.co.com/xKYtrGs7/localhost-5173-9.png)
 
 ## Tech Stack
 
@@ -46,11 +72,13 @@ src/
 ### Installation
 
 1. Install dependencies:
+
 ```bash
 npm install
 ```
 
 2. Create `.env.local` file:
+
 ```bash
 cp .env.example .env.local
 ```
@@ -58,6 +86,7 @@ cp .env.example .env.local
 3. Add your environment variables to `.env.local`
 
 4. Start development server:
+
 ```bash
 npm run dev
 ```
@@ -73,49 +102,25 @@ The app will open at `http://localhost:5173`
 ## Features
 
 ### For Workers
+
 - Browse available tasks
 - Submit task completions
 - Track earnings
 - Request withdrawals
 
 ### For Buyers
+
 - Create and manage tasks
 - Review submissions
 - Purchase coins
 - Track payments
 
 ### For Admins
+
 - Manage users
 - Manage tasks
 - Approve withdrawals
 - View platform statistics
-
-## Environment Variables
-
-See `.env.example` for required environment variables.
-
-## Screenshots
-
-### Homepage
-![Homepage](https://i.ibb.co.com/4nFppdJD/localhost-5173-7.png)
-
-### Dashboards
-
-**Admin Dashboard**
-![Admin Dashboard](https://i.ibb.co.com/MkfyYSXL/localhost-5173-8.png)
-
-**Buyer Dashboard**
-![Buyer Dashboard](https://i.ibb.co.com/xKYtrGs7/localhost-5173-9.png)
-
-## What I Learned in this Vibe Coding Project
-
-This project was built using a "Vibe Coding" approach, leveraging AI assistance to accelerate development while maintaining code quality. Key learnings include:
-
-- **AI-Assisted Workflow:** Integrating AI agents to handle boilerplate code, debugging, and rapid prototyping.
-- **Complex State Management:** Handling multi-role authentication (Worker/Buyer/Admin) and real-time state updates.
-- **Secure Payments:** Implementing Stripe for secure financial transactions and coin-based economy logic.
-- **System Architecture:** Designing a scalable MERN stack architecture with clean separation of concerns.
-- **Responsive Design:** Using Tailwind CSS and DaisyUI to create a modern, mobile-first interface.
 
 ## ⏱Development Time
 
@@ -125,9 +130,26 @@ This project was built using a "Vibe Coding" approach, leveraging AI assistance 
 - **Testing & Debugging:** 3 Hours
 - **Built with:** ♥️ and AI Assistance
 
+## What I Learned in this Vibe Coding Project
+
+This project was built using a "Vibe Coding" approach, leveraging AI assistance
+to accelerate development while maintaining code quality. Key learnings include:
+
+- **AI-Assisted Workflow:** Integrating AI agents to handle boilerplate code,
+  debugging, and rapid prototyping.
+- **Complex State Management:** Handling multi-role authentication
+  (Worker/Buyer/Admin) and real-time state updates.
+- **Secure Payments:** Implementing Stripe for secure financial transactions and
+  coin-based economy logic.
+- **System Architecture:** Designing a scalable MERN stack architecture with
+  clean separation of concerns.
+- **Responsive Design:** Using Tailwind CSS and DaisyUI to create a modern,
+  mobile-first interface.
+
 ## Developer
 
 **Ashikur Rahman**
+
 - GitHub: [@ashikurahman1](https://github.com/ashikurahman1)
 - [LinkedIn](https://linkedin.com/in/ashikur-dev)
 
