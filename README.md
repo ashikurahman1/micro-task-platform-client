@@ -8,15 +8,15 @@ ensuring tasks, users, and payments are handled properly.
 
 ### Homepage
 
-![Homepage](https://i.ibb.co.com/4nFppdJD/localhost-5173-7.png)
+![Homepage](https://ibb.co.com/bM6XXJ7y)
 
 ### Dashboards
 
 **Admin Dashboard**  
-![Admin Dashboard](https://i.ibb.co.com/MkfyYSXL/localhost-5173-8.png)
+![Admin Dashboard](https://ibb.co.com/b5FjSmfn)
 
 **Buyer Dashboard**  
-![Buyer Dashboard](https://i.ibb.co.com/xKYtrGs7/localhost-5173-9.png)
+![Buyer Dashboard](https://ibb.co.com/BHG5YjPC)
 
 ## Live Links
 
